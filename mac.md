@@ -10,3 +10,14 @@ Now that you are all set up, it's time to learn a little more about the tools of
 6. Explain the difference between `git fetch`, `git merge` and `git pull`. What does each command do?
 7. What is a merge conflict?
 8. How do you resolve a merge conflict?
+
+
+
+1. Git is "an open source program for tracking changes in files"
+2. Git is an "open-source tool developers install locally on computers, and GitHub is a cloud or online service that stores code pushed by the Git tool."
+3. We create a branch to work "freely without disrupting the main file"
+4. The purpose of a pull request are changes submitted to a respiratory by an user and accepted or rejected by other collaborators.
+5."git check out"
+6.the 'git fetch' command adds changes to your local branch without committing to them, unlike 'git pull' whihc pulls the changes and adds them to your main branch . 'git merge' command takes changes made on one branch and applies them another.
+7.  a merge conflict happens when people make changes to the same line or same file 
+You can resolve a merge conflict by opening the file and making the necessary changes.
